@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.tafadzwa.moyo.insurance.module.risk
+OpenIDE-Module-Install: com/tafadzwa/moyo/insurance/module/communications/Installer.class
+OpenIDE-Module-Layer: com/tafadzwa/moyo/insurance/module/risk/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/tafadzwa/moyo/insurance/module/risk/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 7.10
+
+
